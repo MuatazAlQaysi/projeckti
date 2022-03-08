@@ -1,0 +1,22 @@
+
+
+.one {
+
+  position: absolute;
+    top: 0px;
+      background-color: lightblue;
+      padding: 10px;
+      width: 33%;
+      font-family: cursive;
+
+}
+
+.two {
+
+  position: absolute;
+    top: 100px;
+      background-color: lightblue;
+      padding: 10px;
+      width: 33%;
+
+}
