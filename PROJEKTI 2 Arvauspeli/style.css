@@ -1,0 +1,12 @@
+
+
+body{
+	margin: 10;
+	padding:200;
+	display: table;
+
+  align-items: center;
+	min-height: 25vh;
+	font-family: 'Jost', sans-serif;
+	background: (white, #24243e);
+}
